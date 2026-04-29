@@ -1,0 +1,6 @@
+[oneAPI_Level_Zero_Headers_LTS]
+git-tree-sha1 = "82caeaa1ddc3e168ede2ac22c55bac5f64714855"
+
+    [[oneAPI_Level_Zero_Headers_LTS.download]]
+    sha256 = "791a49138fe38cc215b2168c50844acdbf410b6fb93fb7bc4dbfdbc93527d23b"
+    url = "https://github.com/JuliaBinaryWrappers/oneAPI_Level_Zero_Headers_LTS_jll.jl/releases/download/oneAPI_Level_Zero_Headers_LTS-v1.13.0+0/oneAPI_Level_Zero_Headers_LTS.v1.13.0.any.tar.gz"
